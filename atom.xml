@@ -3,11 +3,11 @@
   <title>ISP Blog</title>
   
   
-  <link href="https://yhj16.github.io/project/atom.xml" rel="self"/>
+  <link href="https://yhj16.github.io/atom.xml" rel="self"/>
   
-  <link href="https://yhj16.github.io/project/"/>
+  <link href="https://yhj16.github.io/"/>
   <updated>2023-03-22T07:16:17.194Z</updated>
-  <id>https://yhj16.github.io/project/</id>
+  <id>https://yhj16.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://yhj16.github.io/project/2023/03/22/hello-world/"/>
-    <id>https://yhj16.github.io/project/2023/03/22/hello-world/</id>
+    <link href="https://yhj16.github.io/2023/03/22/hello-world/"/>
+    <id>https://yhj16.github.io/2023/03/22/hello-world/</id>
     <published>2023-03-22T07:16:17.194Z</published>
     <updated>2023-03-22T07:16:17.194Z</updated>
     
